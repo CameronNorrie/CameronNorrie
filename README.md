@@ -2,7 +2,7 @@
 
 💻 &nbsp;I'm a software developer at SCA Consulting \
 🎓&nbsp;I graduated from the University of Guelph, (Honours B.Comp, Computer Science, Class of 2023).\
-✍️ &nbsp;In my free time, I play hockey, tennis, soccer and video games.\
+✍️ &nbsp;In my free time, I play hockey, tennis, soccer and video games.
 
 ### 🛠 &nbsp;Tech Stack
 
